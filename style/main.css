@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #f5deb3;
-  color: #fa8072;
+  background: #fffaf0;
+  color: #696969;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #deb887;
+  background: #bbada0;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -982,7 +982,7 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
 }
 .restart-button, a.retry-button {
   display: inline-block;
-  background: #cd853f;
+  background: #8f7a66;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
