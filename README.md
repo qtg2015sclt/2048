@@ -1,3 +1,6 @@
+#### My own 2048
+[全职高手部分人物及账号卡名称版](http://qtg2015sclt.github.io/2048/)
+
 # Make 2048
 A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
